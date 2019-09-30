@@ -24,7 +24,7 @@ Django스터디 내용은 Mash-Up의 면접 합/불여부와 관계없이, 지�
       - 1시간 뒤는 결석
     - 결석: 5000원
   - 매주 수업내용 정리 및 블로그에 공유
-    - 1주차: 김승현
+    - [1주차: 김승현](velog.io/@ssseungzz7/pyenv와-pyenv-virtualenv를-사용한-파이썬-개발-환경-구성하기-p3k15vjigb)
 - 셸/파이썬 개발환경 설정
   - zsh, oh-my-zsh설치
   - pyenv설치, 파이썬 및 가상환경 설정
