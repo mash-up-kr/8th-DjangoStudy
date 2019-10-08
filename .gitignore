@@ -19,7 +19,6 @@ aws_secrets
 /temp
 /app/kakao_zipcode
 .sass-cache/
-*.ipynb
 
 # ignore directories
 /.secrets
