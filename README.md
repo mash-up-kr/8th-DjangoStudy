@@ -2,13 +2,14 @@
 
 ## 안내사항
 
-안녕하세요! Mash-Up 8기 Django 스터디입니다!
+안녕하세요! Mash-Up 8기 Django 스터 디입니다!
 
 Django스터디 내용은 Mash-Up의 면접 합/불여부와 관계없이, 지원자 모두와 공유됩니다  
 모임시간 및 장소 등은 별도의 카카오톡 방에서 공지되지만, 나머지 내용에 대해서는 아래 도구들을 사용합니다.
 
 - [Slack) 스터디 소통 채널](mashup-django.slack.com)
 - [GitHub) 스터디 중앙 저장소](https://github.com/mash-up-kr/8th-DjangoStudy)
+- [YouTube) 강의목록](https://www.youtube.com/playlist?list=PLz_KHa75m7JU1Y--QDrYmvaLGRdSsu_IC)
 
 
 
