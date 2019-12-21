@@ -38,10 +38,17 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    # python manage.py shell_plus명령 실행 가능
+    #  (notebooK도 설치 시, --notebook옵션 추가 가능)
+    'django_extensions',
+
+    # API제작 위한 라이브러리
     'rest_framework',
 
     'snippets',
+    'members',
 ]
+AUTH_USER_MODEL = 'members.User'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
